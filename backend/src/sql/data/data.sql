@@ -1,0 +1,1 @@
+INSERT INTO users value ('sdsd0114', 'sdsd0114@naver.com', 'zxqw#20172405')
